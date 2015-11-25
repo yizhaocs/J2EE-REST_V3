@@ -11,6 +11,7 @@ import org.koushik.javabrains.messenger3.model.Message;
 import org.koushik.javabrains.messenger3.service.MessageService;
 
 /**
+ * REST Web Services 16 - Building Service Stubs
  * http://localhost:8080/messenger3/webapi/messages
  */
 @Path("/messages")
